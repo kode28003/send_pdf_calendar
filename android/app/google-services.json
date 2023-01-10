@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "269665645743",
+    "project_id": "contractcalendar-52cfe",
+    "storage_bucket": "contractcalendar-52cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269665645743:android:cd98bdd145709ea2ac105a",
+        "android_client_info": {
+          "package_name": "com.mycompany.contactcalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269665645743-4v7g1bp32th7iocqjl223td537v321ca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.contactcalendar",
+            "certificate_hash": "40f7a497060d2860149699af85e5bbf7bb54031f"
+          }
+        },
+        {
+          "client_id": "269665645743-a3acstand9arqcgra7pv11oligvsolr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.contactcalendar",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "269665645743-ur6qks9rsmsk0cd4m09tplk4mqth41pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.contactcalendar",
+            "certificate_hash": "dfbf592749d2171cff01cf9f1e81a8bda9a79820"
+          }
+        },
+        {
+          "client_id": "269665645743-mn6rhudmjslh1o49sngooevqsig2taq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBebfGkURHge7QqZ2WzwZ1-AaXbUc9Ltv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269665645743-mdqm3pel7hirr5pj15qjpm8otbk9ev5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269665645743-n8c6j9j5l19hqcgq8jtb8ji3h7n45m3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.contactcalendar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
